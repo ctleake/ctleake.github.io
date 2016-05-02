@@ -14,7 +14,7 @@ Installation / Usage
 
 In linux amend the first line of application.php in the bin directory to read: ``` #!/user/bin/env php ```. Also execute
  
-``` server/homedir? chmod +x application.php ``` 
+``` server/homedir> chmod +x application.php ``` 
   
 
 
@@ -27,4 +27,4 @@ Chris Leake - <ctleake@sky.com><br />
 Acknowledgments
 ---------------
 
-- Sainsbury's Technical Team for inspiring me to review SOLID principles."# ctleake.github.io" 
+- Sainsbury's Technical Team for inspiring me to review SOLID principles.
